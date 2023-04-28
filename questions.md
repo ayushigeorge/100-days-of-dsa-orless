@@ -18,7 +18,7 @@ Output: 4
 # Day 3
 Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
 
- #DAY 4
+ # Day 4
  Given a singly linked list of N nodes.
 The task is to find the middle of the linked list. For example, if the linked list is
 1-> 2->3->4->5, then the middle node of the list is 3.
