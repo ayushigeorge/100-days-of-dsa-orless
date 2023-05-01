@@ -30,3 +30,7 @@ Given a linked list of N nodes. The task is to reverse this list.
 
 # Day 6
 Given a linked list of N nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.
+
+# Day 7
+
+Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending o
