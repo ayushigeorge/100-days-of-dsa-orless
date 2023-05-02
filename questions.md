@@ -32,5 +32,8 @@ Given a linked list of N nodes. The task is to reverse this list.
 Given a linked list of N nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.
 
 # Day 7
-
-Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending o
+Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending NO.
+# Day 8
+Given an array A[ ] of positive integers of size N, where each value represents the number of chocolates in a packet. Each packet can have a variable number of chocolates. There are M students, the task is to distribute chocolate packets among M students such that :
+1. Each student gets exactly one packet.
+2. The difference between maximum number of chocolates given to a student and minimum number of chocolates given to a student is minimum.
