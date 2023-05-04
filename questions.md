@@ -40,3 +40,10 @@ Given an array A[ ] of positive integers of size N, where each value represents 
 
 # Day 9
 Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears more than N/2 times in the array.
+
+# Day 10
+Given a singly linked list of N nodes.
+The task is to find the middle of the linked list. For example, if the linked list is
+1-> 2->3->4->5, then the middle node of the list is 3.
+If there are two middle nodes(in case, when N is even), print the second middle element.
+For example, if the linked list given is 1->2->3->4->5->6, then the middle node of the list is 4.
