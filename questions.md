@@ -50,3 +50,6 @@ For example, if the linked list given is 1->2->3->4->5->6, then the middle node 
 
 # Day 11
 Given a linked list of N nodes. The task is to reverse this list.
+# Day 12
+Given a linked list of N nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.
+
