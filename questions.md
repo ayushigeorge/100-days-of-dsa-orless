@@ -52,4 +52,5 @@ For example, if the linked list given is 1->2->3->4->5->6, then the middle node 
 Given a linked list of N nodes. The task is to reverse this list.
 # Day 12
 Given a linked list of N nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.
-
+# Day  13
+Given an integer array Arr of size N. For each element in the array, check whether the right adjacent element (on the next immediate position) of the array is smaller. If next element is smaller, update the current index to that element. If not, then  -1.
