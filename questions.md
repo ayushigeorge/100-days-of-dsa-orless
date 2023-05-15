@@ -75,3 +75,7 @@ Note :- If there is no element return -1 as answer while popping.
 Given a stack, the task is to sort it such that the top of the stack has the greatest element.
 # Day 17
 Given a string s, remove all its adjacent duplicate characters recursively. 
+# Day 18
+Implement a Queue using an Array. Queries in the Queue are of the following type:
+(i) 1 x   (a query of this type means  pushing 'x' into the queue)
+(ii) 2     (a query of this type means to pop element from queue and print the poped element)
