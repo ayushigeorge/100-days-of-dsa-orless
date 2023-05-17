@@ -82,3 +82,5 @@ Implement a Queue using an Array. Queries in the Queue are of the following type
 # Day 19
 Given a string S consisting only of opening and closing parenthesis 'ie '('  and ')', find out the length of the longest valid(well-formed) parentheses substring.
 NOTE: Length of the smallest valid substring ( ) is 2.
+# Day 20
+Given an integer K and a queue of integers, we need to reverse the order of the first K elements of the queue, leaving the other elements in the same relative order.
