@@ -87,3 +87,6 @@ Given an integer K and a queue of integers, we need to reverse the order of the 
 # Day 21
 Given N activities with their start and finish day given in array start[ ] and end[ ]. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a given day.
 Note : Duration of the activity includes both starting and ending day.
+
+# Day 22
+You are given N pairs of numbers. In every pair, the first number is always smaller than the second number. A pair (c, d) can follow another pair (a, b) if b < c. Chain of pairs can be formed in this fashion. You have to find the longest chain which can be formed from the given set of pairs. 
