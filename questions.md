@@ -100,3 +100,5 @@ Given a Binary Tree, return Left view of it. Left view of a Binary Tree is set o
 Note: Root node can not have a sibling so it cannot be included in our answer
 # Day 26
 Given two binary trees, the task is to find if both of them are identical or not. 
+# Day 27
+Given an array A containing 2*N+2 positive numbers, out of which 2*N numbers exist in pairs whereas the other two number occur exactly once and are distinct. Find the other two numbers. Return in increasing order.
