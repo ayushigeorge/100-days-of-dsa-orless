@@ -102,3 +102,6 @@ Note: Root node can not have a sibling so it cannot be included in our answer
 Given two binary trees, the task is to find if both of them are identical or not. 
 # Day 27
 Given an array A containing 2*N+2 positive numbers, out of which 2*N numbers exist in pairs whereas the other two number occur exactly once and are distinct. Find the other two numbers. Return in increasing order.
+# Day  28
+Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle in a fixed direction.
+After each operation, the count will start from k+1th person. The task is to choose the safe place in the circle so that when you perform these operations starting from 1st place in the circle, you are the last one remaining and survive.
