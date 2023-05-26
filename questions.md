@@ -105,3 +105,6 @@ Given an array A containing 2*N+2 positive numbers, out of which 2*N numbers exi
 # Day  28
 Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle in a fixed direction.
 After each operation, the count will start from k+1th person. The task is to choose the safe place in the circle so that when you perform these operations starting from 1st place in the circle, you are the last one remaining and survive.
+
+#Day 29
+Given a Binary Search Tree. The task is to find the minimum valued element in this given BST
