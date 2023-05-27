@@ -108,3 +108,6 @@ After each operation, the count will start from k+1th person. The task is to cho
 
 #Day 29
 Given a Binary Search Tree. The task is to find the minimum valued element in this given BST
+
+# Day 30
+Given a BST, and a reference to a Node x in the BST. Find the Inorder Successor of the given node in the BST.
