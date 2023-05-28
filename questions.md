@@ -111,3 +111,6 @@ Given a Binary Search Tree. The task is to find the minimum valued element in th
 
 # Day 30
 Given a BST, and a reference to a Node x in the BST. Find the Inorder Successor of the given node in the BST.
+# Day 31
+Given a sorted array. Convert it into a Height balanced Binary Search Tree (BST). Find the preorder traversal of height balanced BST. If there exist many such balanced BST consider the tree whose preorder is lexicographically smallest.
+Height balanced BST means a binary tree in which the depth of the left subtree and the right subtree of every node never differ by more than 1.
