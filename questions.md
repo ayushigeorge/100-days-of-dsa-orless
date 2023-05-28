@@ -114,3 +114,7 @@ Given a BST, and a reference to a Node x in the BST. Find the Inorder Successor 
 # Day 31
 Given a sorted array. Convert it into a Height balanced Binary Search Tree (BST). Find the preorder traversal of height balanced BST. If there exist many such balanced BST consider the tree whose preorder is lexicographically smallest.
 Height balanced BST means a binary tree in which the depth of the left subtree and the right subtree of every node never differ by more than 1.
+# Day 32
+Given a BST and a key K. If K is not present in the BST, Insert a new Node with a value equal to K into the BST. 
+Note: If K is already present in the BST, don't modify the BST.
+
