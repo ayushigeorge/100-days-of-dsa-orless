@@ -117,4 +117,6 @@ Height balanced BST means a binary tree in which the depth of the left subtree a
 # Day 32
 Given a BST and a key K. If K is not present in the BST, Insert a new Node with a value equal to K into the BST. 
 Note: If K is already present in the BST, don't modify the BST.
+# Day 33
+Given a number N. Find if it can be expressed as sum of two prime numbers.
 
