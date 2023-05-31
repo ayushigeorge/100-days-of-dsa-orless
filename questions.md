@@ -119,4 +119,5 @@ Given a BST and a key K. If K is not present in the BST, Insert a new Node with 
 Note: If K is already present in the BST, don't modify the BST.
 # Day 33
 Given a number N. Find if it can be expressed as sum of two prime numbers.
-
+# Day 34
+Given a number N, the task is to find the largest prime factor of that number.
