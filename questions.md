@@ -120,3 +120,5 @@ Note: If K is already present in the BST, don't modify the BST.
 Given a number N. Find if it can be expressed as sum of two prime numbers.
 # Day 34
 Given a number N, the task is to find the largest prime factor of that number.
+# Day 35
+Given an array Arr of N positive integers and another number X. Determine whether or not there exist two elements in Arr whose sum is exactly X.
