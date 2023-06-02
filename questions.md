@@ -122,3 +122,8 @@ Given a number N. Find if it can be expressed as sum of two prime numbers.
 Given a number N, the task is to find the largest prime factor of that number.
 # Day 35
 Given an array Arr of N positive integers and another number X. Determine whether or not there exist two elements in Arr whose sum is exactly X.
+# Day 36
+Given two unsorted arrays A of size N and B of size M of distinct elements, the task is to find all pairs from both arrays whose sum is equal to X.
+
+Note: All pairs should be printed in increasing order of u. For eg. for two pairs (u1,v1) and (u2,v2), if u1 < u2 then
+(u1,v1) should be printed first else secon
