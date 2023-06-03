@@ -126,4 +126,7 @@ Given an array Arr of N positive integers and another number X. Determine whethe
 Given two unsorted arrays A of size N and B of size M of distinct elements, the task is to find all pairs from both arrays whose sum is equal to X.
 
 Note: All pairs should be printed in increasing order of u. For eg. for two pairs (u1,v1) and (u2,v2), if u1 < u2 then
-(u1,v1) should be printed first else secon
+(u1,v1) should be printed first else second.
+
+# Day 37
+Given an array a[] of size N which contains elements from 0 to N-1, you need to find all the elements occurring more than once in the given array. Return the answer in ascending order.
