@@ -130,3 +130,5 @@ Note: All pairs should be printed in increasing order of u. For eg. for two pair
 
 # Day 37
 Given an array a[] of size N which contains elements from 0 to N-1, you need to find all the elements occurring more than once in the given array. Return the answer in ascending order.
+# Day 38
+Given two lists V1 and V2 of sizes n and m respectively. Return the list of elements common to both the lists and return the list in sorted order. Duplicates may be there in the output list.
