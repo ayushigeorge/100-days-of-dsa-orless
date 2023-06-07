@@ -136,3 +136,5 @@ Given two lists V1 and V2 of sizes n and m respectively. Return the list of elem
 Given an input stream A of n characters consisting only of lower case alphabets. While reading characters from the stream, you have to tell which character has appeared only once in the stream upto that point. If there are many characters that have appeared only once, you have to tell which one of them was the first one to appear. If there is no such character then append '#' to the answer.
  # Day 40
  Given a matrix of size r*c. Traverse the matrix in spiral form.
+ # Day 41
+ Given a matrix mat[][] of size N x M, where every row and column is sorted in increasing order, and a number X is given. The task is to find whether element X is present in the matrix or no
