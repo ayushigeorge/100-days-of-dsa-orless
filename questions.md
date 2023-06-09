@@ -144,3 +144,6 @@ Given an input stream A of n characters consisting only of lower case alphabets.
 Given a coordinate (sr, sc) representing the starting pixel (row and column) of the flood fill, and a pixel value newColor, "flood fill" the image.
 
 To perform a "flood fill", consider the starting pixel, plus any pixels connected 4-directionally to the starting pixel of the same color as the starting pixel, plus any pixels connected 4-directionally to those pixels (also with the same color as the starting pixel), and so on. Replace the color of all of the aforementioned pixels with the newColor.
+# Day 43
+Given an array A of n positive numbers. The task is to find the first Equilibrium Point in an array. 
+Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
