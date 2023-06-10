@@ -147,3 +147,6 @@ To perform a "flood fill", consider the starting pixel, plus any pixels connecte
 # Day 43
 Given an array A of n positive numbers. The task is to find the first Equilibrium Point in an array. 
 Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
+# Day 44
+Given an array A[] of N positive integers. The task is to find the maximum of j - i subjected to the constraint of A[i] < A[j] and i < j.
+ 
