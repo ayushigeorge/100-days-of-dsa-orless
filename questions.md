@@ -159,3 +159,7 @@ Formally, two elements a[i] and a[j] form an inversion if a[i] > a[j] and i < j.
 
 # Day 46
 Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.
+# Day 47
+Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+
+You must do it in place.
