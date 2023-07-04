@@ -171,3 +171,7 @@ Note that you must do this in-place without making a copy of the array.
 Given an integer array nums where every element appears three times except for one, which appears exactly once. Find the single element and return it.
 
 You must implement a solution with a linear runtime complexity and use only constant extra space.
+# Day 50
+The cost of stock on each day is given in an array price[] of size n. Each day you may decide to either buy or sell the stock i at price[i], you can even buy and sell the stock on the same day, Find the maximum profit which you can get.
+
+Note: You can only hold one stock at a time.
