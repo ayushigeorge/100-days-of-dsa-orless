@@ -184,3 +184,11 @@ Change the array nums such that the first k elements of nums contain the unique 
 Return k.
 # Day 52
 Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order without using any extra space. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.
+
+# Day 53
+You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
+
+On each day, you may decide to buy and/or sell the stock. You can only hold at most one share of the stock at any time. However, you can buy it then immediately sell it on the same day.
+
+Find and return the maximum profit you can achieve.
+
