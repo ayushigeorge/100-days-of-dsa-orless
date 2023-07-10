@@ -195,3 +195,9 @@ Find and return the maximum profit you can achieve.
 Given an integer array nums and an integer k, return the number of non-empty subarrays that have a sum divisible by k.
 
 A subarray is a contiguous part of an array.
+# Day 55
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+Note: A leaf is a node with no children.
