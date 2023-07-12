@@ -204,3 +204,5 @@ Note: A leaf is a node with no children.
 
 # Day 56
 Find kth element of spiral matrix
+# Day 57
+Given a number and its reverse. Find that number raised to the power of its own reverse.
