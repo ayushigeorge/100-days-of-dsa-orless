@@ -206,3 +206,5 @@ Note: A leaf is a node with no children.
 Find kth element of spiral matrix
 # Day 57
 Given a number and its reverse. Find that number raised to the power of its own reverse.
+# Day 58
+There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.
