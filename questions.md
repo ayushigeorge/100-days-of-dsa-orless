@@ -214,3 +214,5 @@ push1 : pushes element into first stack.
 push2 : pushes element into second stack.
 pop1 : pops element from first stack and returns the popped element. If first stack is empty, it should return -1.
 pop2 : pops element from second stack and returns the popped element. If second stack is empty, it should return -1.
+# Day 60
+Given a stack, delete the middle element of the stack without using any additional data structure.
