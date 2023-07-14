@@ -208,3 +208,9 @@ Find kth element of spiral matrix
 Given a number and its reverse. Find that number raised to the power of its own reverse.
 # Day 58
 There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.
+ # Day 59
+Your task is to implement  2 stacks in one array efficiently. You need to implement 4 methods.
+push1 : pushes element into first stack.
+push2 : pushes element into second stack.
+pop1 : pops element from first stack and returns the popped element. If first stack is empty, it should return -1.
+pop2 : pops element from second stack and returns the popped element. If second stack is empty, it should return -1.
