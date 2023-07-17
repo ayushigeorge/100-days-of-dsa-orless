@@ -218,3 +218,5 @@ pop2 : pops element from second stack and returns the popped element. If second 
 Given a stack, delete the middle element of the stack without using any additional data structure.
 # Day 61
 Given a Queue Q containing N elements. The task is to reverse the Queue. Your task is to complete the function rev(), that reverses the N elements of the queue.
+# Day 62
+Given an input stream A of n characters consisting only of lower case alphabets. While reading characters from the stream, you have to tell which character has appeared only once in the stream upto that point. If there are many characters that have appeared only once, you have to tell which one of them was the first one to appear. If there is no such character then append '#' to the answer.
