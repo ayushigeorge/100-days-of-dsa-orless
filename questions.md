@@ -224,3 +224,7 @@ Given an input stream A of n characters consisting only of lower case alphabets.
 Longest Repeating Subsequence
 # Day 64
  Non repeating charater
+# Day 65
+Given an integer array nums, return the number of longest increasing subsequences.
+
+Notice that the sequence has to be strictly increasing.
