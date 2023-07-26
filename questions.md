@@ -236,3 +236,5 @@ Given a linked list of 0s, 1s and 2s, sort it.
 Right View of Binary Tree
 # Day 69
 Level order traversal in spiral form
+# Day 70
+Kth ansestor of tree
