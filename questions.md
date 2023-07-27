@@ -238,3 +238,5 @@ Right View of Binary Tree
 Level order traversal in spiral form
 # Day 70
 Kth ansestor of tree
+# Day 71
+Heap sort
