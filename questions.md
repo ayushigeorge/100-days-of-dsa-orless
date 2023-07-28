@@ -240,3 +240,5 @@ Level order traversal in spiral form
 Kth ansestor of tree
 # Day 71
 Heap sort
+# Day 72
+Lower Anestor in tree
