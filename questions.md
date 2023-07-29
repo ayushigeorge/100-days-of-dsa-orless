@@ -242,3 +242,5 @@ Kth ansestor of tree
 Heap sort
 # Day 72
 Lower Anestor in tree
+# Day 73
+Median of BST
