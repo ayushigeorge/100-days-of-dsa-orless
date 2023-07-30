@@ -244,3 +244,5 @@ Heap sort
 Lower Anestor in tree
 # Day 73
 Median of BST
+# Day 74
+Inorder Successor in BST
