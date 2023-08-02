@@ -250,3 +250,5 @@ Inorder Successor in BST
 BFS of graph
 # Day 76
 DFS of graph
+# Day 77
+Permutations
