@@ -254,3 +254,5 @@ DFS of graph
 Permutations
 # Day 78
 Shortest path in Directed Acyclic Graph
+# Day 79
+Reverse a stack
