@@ -260,3 +260,5 @@ Reverse a stack
 Unique Binary Search Trees II
 # Day 81
 String Permutations
+# Day 82
+Linear Search
