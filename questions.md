@@ -270,3 +270,5 @@ Largest Common Factor
 Largest Comman Subsequence
 # Day 86
 Coin Exchange2
+# Day 87
+Longest Increasing Subsequence
