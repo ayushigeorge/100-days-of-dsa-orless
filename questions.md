@@ -280,3 +280,5 @@ Kth Largest Element in an Array
 Flip Bits
 # Day 91
 Sliding Window Max
+# Day 92
+Next Smallest Pallindrome
