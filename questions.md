@@ -285,3 +285,8 @@ Next Smallest Pallindrome
 # Day 93
 Leaders in an array
 Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader.
+#Day 94
+Subarray with given sum
+Given an unsorted array A of size N that contains only positive integers, find a continuous sub-array that adds to a given number S and return the left and right index(1-based indexing) of that subarray.
+In case of multiple subarrays, return the subarray indexes which come first on moving from left to right.
+Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.
