@@ -290,3 +290,6 @@ Subarray with given sum
 Given an unsorted array A of size N that contains only positive integers, find a continuous sub-array that adds to a given number S and return the left and right index(1-based indexing) of that subarray.
 In case of multiple subarrays, return the subarray indexes which come first on moving from left to right.
 Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.
+# Day 95
+Number of OCCURENCE
+Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
