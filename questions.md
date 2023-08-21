@@ -293,3 +293,7 @@ Note:- You have to return an ArrayList consisting of two elements left and right
 # Day 95
 Number of OCCURENCE
 Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
+
+#Day 96
+ Repeated Substring Pattern
+Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
