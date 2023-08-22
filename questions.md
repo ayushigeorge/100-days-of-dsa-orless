@@ -295,5 +295,5 @@ Number of OCCURENCE
 Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
 
 #Day 96
- Repeated Substring Pattern
-Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
+Make matrix bea==iful
+A beautiful matrix is a matrix in which the sum of elements in each row and column is equal. Given a square matrix of size NxN. Find the minimum number of operation(s) that are required to make the matrix beautiful. In one operation you can increment the value of any one cell by 1.
