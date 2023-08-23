@@ -293,7 +293,11 @@ Note:- You have to return an ArrayList consisting of two elements left and right
 # Day 95
 Number of OCCURENCE
 Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
-
 #Day 96
 Make matrix bea==iful
 A beautiful matrix is a matrix in which the sum of elements in each row and column is equal. Given a square matrix of size NxN. Find the minimum number of operation(s) that are required to make the matrix beautiful. In one operation you can increment the value of any one cell by 1.
+# Day 97
+Reorganise String
+Given a string s, rearrange the characters of s so that any two adjacent characters are not the same.
+
+Return any possible rearrangement of s or return "" if not possible.
