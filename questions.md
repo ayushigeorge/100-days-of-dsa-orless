@@ -309,3 +309,6 @@ For the last line of text, it should be left-justified, and no extra space is in
 
 Example 1:
 Input: words = ["This", "is", "an", "example", "of", "text", "justification."], maxWidth = 16
+# Day 99
+Palindrome String
+Given a string S, check if it is palindrome or not.
