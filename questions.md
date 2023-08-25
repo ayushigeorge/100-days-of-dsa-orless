@@ -291,7 +291,7 @@ Given an unsorted array A of size N that contains only positive integers, find a
 In case of multiple subarrays, return the subarray indexes which come first on moving from left to right.
 Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.
 # Day 95
-Number of OCCURENCE
+Number of Occurance
 Given a sorted array Arr of size N and a number X, you need to find the number of occurrences of X in Arr.
 #Day 96
 Make matrix beautiiful
@@ -300,13 +300,11 @@ A beautiful matrix is a matrix in which the sum of elements in each row and colu
 Reorganise String
 Given a string s, rearrange the characters of s so that any two adjacent characters are not the same.
 Return any possible rearrangement of s or return "" if not possible.
-# Day 98
-TEXT JUSTIFICATION
+# Day 98Text Justification
 Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
 You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces ' ' when necessary so that each line has exactly maxWidth characters.
 Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line does not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right.
 For the last line of text, it should be left-justified, and no extra space is inserted between words.
-
 Example 1:
 Input: words = ["This", "is", "an", "example", "of", "text", "justification."], maxWidth = 16
 # Day 99
