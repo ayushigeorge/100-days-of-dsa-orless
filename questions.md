@@ -310,3 +310,6 @@ Input: words = ["This", "is", "an", "example", "of", "text", "justification."], 
 # Day 99
 Palindrome String
 Given a string S, check if it is palindrome or not.
+# Day 100
+Longest K unique characters substring
+Given a string you need to print the size of the longest possible substring that has exactly K unique characters. If there is no possible substring then print -1.
